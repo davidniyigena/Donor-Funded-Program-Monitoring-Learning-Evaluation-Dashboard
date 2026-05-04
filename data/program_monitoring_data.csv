@@ -1,0 +1,31 @@
+program_id,program_name,country,region,district,sector,activity,indicator,reporting_period,target,actual,beneficiaries_reached,data_quality_issue,implementation_status,donor
+P001,Education Access Initiative,Rwanda,Eastern Province,Kayonza,Education,Teacher Training,Teachers trained,Q1-2025,120,105,105,No,On Track,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Kayonza,Education,Student Support,Students reached,Q1-2025,1500,1320,1320,No,On Track,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Ngoma,Education,Learning Materials Distribution,Schools receiving materials,Q1-2025,45,39,39,No,At Risk,Global Education Fund
+P002,Community Health Outreach,Rwanda,Southern Province,Huye,Health,Health Education,Community members reached,Q1-2025,2000,1850,1850,No,On Track,Health Equity Foundation
+P002,Community Health Outreach,Rwanda,Southern Province,Nyanza,Health,Clinic Referral Support,Patients referred,Q1-2025,500,420,420,Yes,At Risk,Health Equity Foundation
+P003,Youth Skills Development,Rwanda,Kigali City,Gasabo,Workforce Development,Digital Skills Training,Youth trained,Q1-2025,300,275,275,No,On Track,Future Skills Donor
+P003,Youth Skills Development,Rwanda,Kigali City,Nyarugenge,Workforce Development,Job Readiness Coaching,Youth completing coaching,Q1-2025,250,210,210,No,At Risk,Future Skills Donor
+P004,Women Economic Empowerment,Rwanda,Western Province,Rubavu,Economic Development,Savings Group Support,Women participating,Q1-2025,600,580,580,No,On Track,Inclusive Growth Fund
+P004,Women Economic Empowerment,Rwanda,Western Province,Karongi,Economic Development,Business Training,Women trained,Q1-2025,400,360,360,No,On Track,Inclusive Growth Fund
+P005,School Improvement Program,Rwanda,Northern Province,Musanze,Education,School Leadership Coaching,Headteachers coached,Q1-2025,80,65,65,Yes,At Risk,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Kayonza,Education,Teacher Training,Teachers trained,Q2-2025,120,118,118,No,On Track,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Kayonza,Education,Student Support,Students reached,Q2-2025,1500,1485,1485,No,On Track,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Ngoma,Education,Learning Materials Distribution,Schools receiving materials,Q2-2025,45,44,44,No,On Track,Global Education Fund
+P002,Community Health Outreach,Rwanda,Southern Province,Huye,Health,Health Education,Community members reached,Q2-2025,2000,1960,1960,No,On Track,Health Equity Foundation
+P002,Community Health Outreach,Rwanda,Southern Province,Nyanza,Health,Clinic Referral Support,Patients referred,Q2-2025,500,460,460,No,On Track,Health Equity Foundation
+P003,Youth Skills Development,Rwanda,Kigali City,Gasabo,Workforce Development,Digital Skills Training,Youth trained,Q2-2025,300,295,295,No,On Track,Future Skills Donor
+P003,Youth Skills Development,Rwanda,Kigali City,Nyarugenge,Workforce Development,Job Readiness Coaching,Youth completing coaching,Q2-2025,250,235,235,No,On Track,Future Skills Donor
+P004,Women Economic Empowerment,Rwanda,Western Province,Rubavu,Economic Development,Savings Group Support,Women participating,Q2-2025,600,610,610,No,Exceeded Target,Inclusive Growth Fund
+P004,Women Economic Empowerment,Rwanda,Western Province,Karongi,Economic Development,Business Training,Women trained,Q2-2025,400,390,390,No,On Track,Inclusive Growth Fund
+P005,School Improvement Program,Rwanda,Northern Province,Musanze,Education,School Leadership Coaching,Headteachers coached,Q2-2025,80,78,78,No,On Track,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Kayonza,Education,Teacher Training,Teachers trained,Q3-2025,120,122,122,No,Exceeded Target,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Kayonza,Education,Student Support,Students reached,Q3-2025,1500,1510,1510,No,Exceeded Target,Global Education Fund
+P001,Education Access Initiative,Rwanda,Eastern Province,Ngoma,Education,Learning Materials Distribution,Schools receiving materials,Q3-2025,45,46,46,No,Exceeded Target,Global Education Fund
+P002,Community Health Outreach,Rwanda,Southern Province,Huye,Health,Health Education,Community members reached,Q3-2025,2000,1985,1985,No,On Track,Health Equity Foundation
+P002,Community Health Outreach,Rwanda,Southern Province,Nyanza,Health,Clinic Referral Support,Patients referred,Q3-2025,500,490,490,No,On Track,Health Equity Foundation
+P003,Youth Skills Development,Rwanda,Kigali City,Gasabo,Workforce Development,Digital Skills Training,Youth trained,Q3-2025,300,310,310,No,Exceeded Target,Future Skills Donor
+P003,Youth Skills Development,Rwanda,Kigali City,Nyarugenge,Workforce Development,Job Readiness Coaching,Youth completing coaching,Q3-2025,250,248,248,No,On Track,Future Skills Donor
+P004,Women Economic Empowerment,Rwanda,Western Province,Rubavu,Economic Development,Savings Group Support,Women participating,Q3-2025,600,620,620,No,Exceeded Target,Inclusive Growth Fund
+P004,Women Economic Empowerment,Rwanda,Western Province,Karongi,Economic Development,Business Training,Women trained,Q3-2025,400,405,405,No,Exceeded Target,Inclusive Growth Fund
+P005,School Improvement Program,Rwanda,Northern Province,Musanze,Education,School Leadership Coaching,Headteachers coached,Q3-2025,80,82,82,No,Exceeded Target,Global Education Fund
