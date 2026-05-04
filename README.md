@@ -36,29 +36,23 @@ The main objectives of this project are to:
 
 ---
 
-## Tools and Technologies
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Google Looker Studio
-- Jupyter Notebook
-- Excel or CSV data files
-
----
-
-## Project Structure
+## Repository Structure
 
 ```text
 data/
-notebooks/
-scripts/
+  program_monitoring_data.csv
+
 sql/
-visuals/
+  program_monitoring_queries.sql
+
+scripts/
+  01_data_cleaning_and_eda.py
+
 reports/
+  project_summary.md
+
+visuals/
+  dashboard_plan.md
+
 README.md
 requirements.txt
