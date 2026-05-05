@@ -45,6 +45,7 @@ The main objectives of this project are to:
 - `visuals/dashboard_plan.md`
 - `README.md`
 - `requirements.txt`
+
 ---
 
 ## Dataset
@@ -177,21 +178,15 @@ The project is designed to support dashboard visuals such as:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/davidniyigena/Donor-Funded-Program-Monitoring-Learning-Evaluation-Dashboard.git
-```
+`git clone https://github.com/davidniyigena/Donor-Funded-Program-Monitoring-Learning-Evaluation-Dashboard.git`
 
 ### 2. Install required packages
 
-```bash
-pip install -r requirements.txt
-```
+`pip install -r requirements.txt`
 
 ### 3. Run the Python analysis script
 
-```bash
-python scripts/01_data_cleaning_and_eda.py
-```
+`python scripts/01_data_cleaning_and_eda.py`
 
 ### 4. Review the SQL queries
 
