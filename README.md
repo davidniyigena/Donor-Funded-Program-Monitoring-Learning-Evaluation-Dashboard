@@ -57,16 +57,34 @@ visuals/
 README.md
 requirements.txt
 ```
+
 ---
 
 ## Dataset
 
 The dataset is a sample donor-funded program monitoring dataset. It includes information on program activities, sectors, districts, reporting periods, targets, actual results, beneficiaries reached, data quality issues, implementation status, and donors.
 
-Dataset file:
+**Dataset file:** `data/program_monitoring_data.csv`
 
-```text
-data/program_monitoring_data.csv
+### Key Fields
+
+- Program ID
+- Program name
+- Country
+- Region
+- District
+- Sector
+- Activity
+- Indicator
+- Reporting period
+- Target
+- Actual result
+- Beneficiaries reached
+- Data quality issue
+- Implementation status
+- Donor
+
+---
 ## Tools and Technologies
 
 - Python
@@ -88,21 +106,13 @@ data/program_monitoring_data.csv
 
 The Python script loads the dataset, checks missing values, standardizes column names, creates an achievement rate field, categorizes performance, and prepares the dataset for analysis.
 
-Script file:
-
-```text
-scripts/01_data_cleaning_and_eda.py
-```
+**Script file:** `scripts/01_data_cleaning_and_eda.py`
 
 ### 2. SQL Analysis
 
 The SQL file contains queries to summarize and analyze program monitoring data.
 
-SQL file:
-
-```text
-sql/program_monitoring_queries.sql
-```
+**SQL file:** `sql/program_monitoring_queries.sql`
 
 The SQL queries answer questions such as:
 
@@ -118,23 +128,15 @@ The SQL queries answer questions such as:
 
 The project summary explains the purpose, background, dataset, methods, key performance questions, expected insights, and next steps.
 
-Report file:
-
-```text
-reports/project_summary.md
-```
+**Report file:** `reports/project_summary.md`
 
 ### 4. Dashboard Planning
 
 The dashboard plan outlines the proposed dashboard sections, KPI cards, filters, visualizations, and Google Looker Studio dashboard structure.
 
-Dashboard plan file:
+**Dashboard plan file:** `visuals/dashboard_plan.md`
 
-```text
-visuals/dashboard_plan.md
-```
 ---
-
 ## Key Performance Questions
 
 This project is designed to answer the following monitoring and evaluation questions:
@@ -148,6 +150,7 @@ This project is designed to answer the following monitoring and evaluation quest
 7. Which regions or districts need additional implementation support?
 
 ---
+
 ## Key Skills Demonstrated
 
 - Data cleaning
@@ -203,20 +206,16 @@ python scripts/01_data_cleaning_and_eda.py
 
 ### 4. Review the SQL queries
 
-Open:
-
-```text
-sql/program_monitoring_queries.sql
-```
+Open: `sql/program_monitoring_queries.sql`
 
 ### 5. Review the report and dashboard plan
 
 Open:
 
-```text
-reports/project_summary.md
-visuals/dashboard_plan.md
-```
+- `reports/project_summary.md`
+- `visuals/dashboard_plan.md`
+
+---
 
 ## Portfolio Relevance
 
