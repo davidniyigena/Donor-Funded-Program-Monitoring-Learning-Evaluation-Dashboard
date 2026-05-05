@@ -45,7 +45,6 @@ The main objectives of this project are to:
 - `visuals/dashboard_plan.md`
 - `README.md`
 - `requirements.txt`
-
 ---
 
 ## Dataset
