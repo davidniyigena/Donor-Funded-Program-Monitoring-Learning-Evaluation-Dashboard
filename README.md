@@ -38,25 +38,13 @@ The main objectives of this project are to:
 
 ## Repository Structure
 
-```text
-data/
-  program_monitoring_data.csv
-
-sql/
-  program_monitoring_queries.sql
-
-scripts/
-  01_data_cleaning_and_eda.py
-
-reports/
-  project_summary.md
-
-visuals/
-  dashboard_plan.md
-
-README.md
-requirements.txt
-```
+- `data/program_monitoring_data.csv`
+- `sql/program_monitoring_queries.sql`
+- `scripts/01_data_cleaning_and_eda.py`
+- `reports/project_summary.md`
+- `visuals/dashboard_plan.md`
+- `README.md`
+- `requirements.txt`
 
 ---
 
@@ -85,6 +73,7 @@ The dataset is a sample donor-funded program monitoring dataset. It includes inf
 - Donor
 
 ---
+
 ## Tools and Technologies
 
 - Python
@@ -137,6 +126,7 @@ The dashboard plan outlines the proposed dashboard sections, KPI cards, filters,
 **Dashboard plan file:** `visuals/dashboard_plan.md`
 
 ---
+
 ## Key Performance Questions
 
 This project is designed to answer the following monitoring and evaluation questions:
