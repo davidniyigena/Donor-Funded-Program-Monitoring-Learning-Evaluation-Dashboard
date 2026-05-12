@@ -179,7 +179,24 @@ The project is designed to support dashboard visuals such as:
 - Regional performance charts
 
 ---
+## Sample Visualizations
 
+### Achievement Rate by Reporting Period
+![Achievement Rate by Reporting Period](visuals/achievement_rate_by_period.png)
+
+### Total Beneficiaries Reached by Sector
+![Total Beneficiaries Reached by Sector](visuals/beneficiaries_by_sector.png)
+
+### Data Quality Issue Summary
+![Data Quality Issue Summary](visuals/data_quality_issues.png)
+
+### Implementation Status Summary
+![Implementation Status Summary](visuals/implementation_status_summary.png)
+
+### Achievement Rate by Donor
+![Achievement Rate by Donor](visuals/achievement_rate_by_donor.png)
+
+---
 ## How to Use This Project
 
 ### 1. Clone the repository
