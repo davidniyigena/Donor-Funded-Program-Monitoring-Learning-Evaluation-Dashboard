@@ -41,6 +41,7 @@ The main objectives of this project are to:
 - `data/program_monitoring_data.csv`
 - `sql/program_monitoring_queries.sql`
 - `scripts/01_data_cleaning_and_eda.py`
+- `scripts/02_visualizations.py`
 - `reports/project_summary.md`
 - `visuals/dashboard_plan.md`
 - `README.md`
@@ -96,8 +97,13 @@ The dataset is a sample donor-funded program monitoring dataset. It includes inf
 The Python script loads the dataset, checks missing values, standardizes column names, creates an achievement rate field, categorizes performance, and prepares the dataset for analysis.
 
 **Script file:** `scripts/01_data_cleaning_and_eda.py`
+### 2. Visualization Script
 
-### 2. SQL Analysis
+The visualization script creates chart outputs for program performance, donor achievement rates, implementation status, data quality issues, and reporting-period trends.
+
+**Script file:** `scripts/02_visualizations.py`
+
+### 3. SQL Analysis
 
 The SQL file contains queries to summarize and analyze program monitoring data.
 
@@ -113,13 +119,13 @@ The SQL queries answer questions such as:
 - How does performance change by reporting period?
 - Which regions show stronger program performance?
 
-### 3. Reporting
+### 4. Reporting
 
 The project summary explains the purpose, background, dataset, methods, key performance questions, expected insights, and next steps.
 
 **Report file:** `reports/project_summary.md`
 
-### 4. Dashboard Planning
+### 5. Dashboard Planning
 
 The dashboard plan outlines the proposed dashboard sections, KPI cards, filters, visualizations, and Google Looker Studio dashboard structure.
 
