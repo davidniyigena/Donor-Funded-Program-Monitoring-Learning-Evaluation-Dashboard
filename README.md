@@ -197,6 +197,27 @@ The project is designed to support dashboard visuals such as:
 ![Achievement Rate by Donor](visuals/achievement_rate_by_donor.png)
 
 ---
+
+## Key Findings
+
+Based on the sample monitoring dataset and generated visualizations, the project highlights the following findings:
+
+1. **Program performance improved over time.**  
+   Achievement rates increased across reporting periods, showing stronger implementation progress from Q1-2025 to Q3-2025.
+
+2. **Health and education reached the largest number of beneficiaries.**  
+   The beneficiary reach analysis shows that health and education activities reached more participants compared with other sectors.
+
+3. **Most program records did not have data quality issues.**  
+   The data quality summary shows that most records were clean, while a smaller number required follow-up.
+
+4. **Most activities were on track or exceeded targets.**  
+   The implementation status summary shows that many activities were performing well, with fewer activities marked as at risk.
+
+5. **Donor performance was generally strong.**  
+   The donor achievement analysis shows strong achievement rates across donors, supporting structured donor reporting and performance monitoring.
+
+These findings demonstrate how Python, SQL, and dashboard-style analysis can help nonprofit and donor-funded programs identify progress, performance gaps, and areas that may need additional support.
 ## How to Use This Project
 
 ### 1. Clone the repository
